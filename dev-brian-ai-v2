@@ -1,0 +1,151 @@
+Closing open session in favor of incoming prekey bundle
+Closing open session in favor of incoming prekey bundle
+Closing open session in favor of incoming prekey bundle
+Closing open session in favor of incoming prekey bundle
+Error in !ig: Error: Connection Closed
+    at sendRawMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:144:10)
+    at sendNode (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:165:10)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:225:4)
+    at new Promise (<anonymous>)
+    at promiseTimeout (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\generics.ts:156:10)
+    at query (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:223:24)
+    at Object.executeUSyncQuery (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:322:24)
+    at getUSyncDevices (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:321:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:864:30)
+Auto-like status failed: Connection Closed
+Error in !ig: Error: Connection Closed
+    at sendRawMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:144:10)
+    at sendNode (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:165:10)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:225:4)
+    at new Promise (<anonymous>)
+    at promiseTimeout (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\generics.ts:156:10)
+    at query (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:223:24)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:130:26)
+    at refreshMediaConn (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:156:6)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Object.upload (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\messages-media.ts:832:20)
+Failed to decrypt message with any known session...
+Session error:MessageCounterError: Key used already or never filled MessageCounterError: Key used already or never filled
+    at SessionCipher.doDecryptWhisperMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:236:19)
+    at SessionCipher.decryptWithSessions (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:147:40)
+    at 84993644744905_1.0 [as awaitable] (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:171:39)
+    at async _asyncQueueExecutor (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\queue_job.js:20:29)
+Decrypted message with closed session.
+Error in !ig: Error: Connection Closed
+    at sendRawMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:144:10)
+    at sendNode (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:165:10)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:225:4)
+    at new Promise (<anonymous>)
+    at promiseTimeout (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\generics.ts:156:10)
+    at query (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:223:24)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:130:26)
+    at refreshMediaConn (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:156:6)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Object.upload (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\messages-media.ts:832:20)
+Menu profile image unavailable; sending text-only menu: Cannot read properties of undefined (reading 'attrs')
+Error in !menu: Error: Connection Closed
+    at sendRawMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:144:10)
+    at sendNode (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:165:10)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:225:4)
+    at new Promise (<anonymous>)
+    at promiseTimeout (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\generics.ts:156:10)
+    at query (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:223:24)
+    at Object.executeUSyncQuery (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:322:24)
+    at getUSyncDevices (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:321:29)
+    at async <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:864:30)
+    at async <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\auth-utils.ts:327:22)
+Error in !play: Error: Connection Closed
+    at sendRawMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:144:10)
+    at sendNode (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:165:10)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:225:4)
+    at new Promise (<anonymous>)
+    at promiseTimeout (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\generics.ts:156:10)
+    at query (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:223:24)
+    at Object.executeUSyncQuery (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:322:24)
+    at getUSyncDevices (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:321:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:864:30)
+Error in !play: Error: Connection Closed
+    at sendRawMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:144:10)
+    at sendNode (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:165:10)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:225:4)
+    at new Promise (<anonymous>)
+    at promiseTimeout (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\generics.ts:156:10)
+    at query (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\socket.ts:223:24)
+    at <anonymous> (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:130:26)
+    at refreshMediaConn (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Socket\messages-send.ts:156:6)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Object.upload (C:\Users\HP\dev-brian-ai-v2\node_modules\@whiskeysockets\baileys\src\Utils\messages-media.ts:832:20)
+Closing open session in favor of incoming prekey bundle
+Auto-view status failed: Connection Closed
+Failed to decrypt message with any known session...
+Session error:MessageCounterError: Key used already or never filled MessageCounterError: Key used already or never filled
+    at SessionCipher.doDecryptWhisperMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:236:19)
+    at SessionCipher.decryptWithSessions (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:147:40)
+    at 200201981681688_1.0 [as awaitable] (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:171:39)
+    at async _asyncQueueExecutor (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\queue_job.js:20:29)
+Auto-like status failed: undefined
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Auto-view status failed: Connection Closed
+Auto-like status failed: Connection Closed
+Failed to decrypt message with any known session...
+Session error:MessageCounterError: Key used already or never filled MessageCounterError: Key used already or never filled
+    at SessionCipher.doDecryptWhisperMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:236:19)
+    at SessionCipher.decryptWithSessions (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:147:40)
+    at 84993644744905_1.0 [as awaitable] (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:171:39)
+    at async _asyncQueueExecutor (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\queue_job.js:20:29)
+Failed to decrypt message with any known session...
+Session error:MessageCounterError: Key used already or never filled MessageCounterError: Key used already or never filled
+    at SessionCipher.doDecryptWhisperMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:236:19)
+    at SessionCipher.decryptWithSessions (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:147:40)
+    at 230176457814076_1.0 [as awaitable] (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:171:39)
+    at async _asyncQueueExecutor (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\queue_job.js:20:29)
+Failed to decrypt message with any known session...
+Session error:MessageCounterError: Key used already or never filled MessageCounterError: Key used already or never filled
+    at SessionCipher.doDecryptWhisperMessage (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:236:19)
+    at SessionCipher.decryptWithSessions (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:147:40)
+    at 200201981681688_1.0 [as awaitable] (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\session_cipher.js:171:39)
+    at async _asyncQueueExecutor (C:\Users\HP\dev-brian-ai-v2\node_modules\libsignal\src\queue_job.js:20:29)
